@@ -1,0 +1,20 @@
+{
+  "name": "ai-code-reviewer",
+  "version": "1.0.0",
+  "description": "AI-powered code reviewer",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild index.tsx --bundle --outfile=index.js",
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "esbuild": "^0.20.2",
+    "serve": "^14.2.3"
+  },
+  "dependencies": {
+    "@google/genai": "^1.25.0"
+  }
+}
