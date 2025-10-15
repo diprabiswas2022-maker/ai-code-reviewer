@@ -2,7 +2,7 @@
 
 An intelligent, web-based tool that leverages the Google Gemini API to provide comprehensive, AI-powered reviews of your code files. Simply upload a file to receive an analysis of its readability, modularity, potential bugs, and an overall quality score.
 
-![AI Code Reviewer Screenshot](https://storage.googleapis.com/proudcity/mebanenc/uploads/2021/03/placeholder-image.png)
+![AI Code Reviewer Screenshot](./assets/image.png)
 *(Replace this with a screenshot of your application)*
 
 ---
